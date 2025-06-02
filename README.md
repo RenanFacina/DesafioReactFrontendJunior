@@ -8,11 +8,11 @@ Project based on [Todo MVC](https://todomvc.com) to test front-end skills.
 
 ## Features
 
-[x] List, add, edit, and remove tasks
-[x] Filter tasks (all, active, and completed)
-[x] Mark/unmark all tasks
-[x] Remove completed tasks
-[x] API request for sample tasks
+- [x] List, add, edit, and remove tasks
+- [x] Filter tasks (all, active, and completed)
+- [x] Mark/unmark all tasks
+- [x] Remove completed tasks
+- [x] API request for sample tasks
 
 ## Installation
 
