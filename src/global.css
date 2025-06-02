@@ -1,0 +1,41 @@
+:root {
+    --red-title: #b83f45;
+    --white-background: #f5f5f5;
+    --black-font: #111;
+    --gray-font: #4d4d4d;
+    --gray-light: #949494;
+    --teste : #ededed
+}
+
+:focus {
+    outline: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: var(--white-background);
+    color: var(--black-font);
+    -webkit-font-smoothing: antialiased;
+}
+
+button {
+    appearance: none;
+    background: none;
+    border: 0;
+}
+
+body,
+input,
+textarea,
+button {
+    font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+    font-weight: 300;
+    font-size: 16px;
+}

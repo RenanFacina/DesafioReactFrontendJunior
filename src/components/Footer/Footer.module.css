@@ -1,0 +1,14 @@
+.footer {
+    color: var(--gray-font);
+    font-size: 11px;
+    margin-top: 1024px;
+    text-align: center;
+}
+
+.footer a {
+    color: inherit;
+}
+
+.footer p {
+    margin: 11px 0;
+}
